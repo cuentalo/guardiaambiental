@@ -1,0 +1,2385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<column_1><![CDATA[06 de mayo de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[0.07]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[18 de junio 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[0.07]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[05 de agosto de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[0.14]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[24 de agosto de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[0.7]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[01 de diciembre de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[0.67]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[17 de enero de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[0.25]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[11 de julio de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[0.07]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[18 de agosto de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[1.13]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[23 de septiembre de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[1.37]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de noviembre de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[0.64]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[12 de diciembre de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[1.81]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de enero de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[0.64]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[27 de febrero de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[1.57]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[22 de marzo de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[0.85]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[24 de abril de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[0.72]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[31 de mayo de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[0.56]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[27 de junio de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[0.53]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de julio de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[1.16]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[28 de agosto de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[0.42]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[27 de septiembre de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[0.07]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de octubre de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[1.54]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[7 de diciembre de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[0,42]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de enero de  2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[0,38]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de febrero de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[0,18]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[17 de abril de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[0.07]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[28 de mayo de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[0.07]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[28 de noviembre de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[0.07]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de diciembre de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[0.07]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de febrero de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[0.07]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[19 de marzo de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[0.07]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de abril de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[0.07]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de mayo de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[0.07]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de junio de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[0.07]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[31 de julio de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[0.07]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de agosto de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[0.07]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de septiembre de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[0.07]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de octubre de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[1.89]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[10 de julio de 2015]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[0.07]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de agosto de 2015]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[0.07]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[24 de septiembre de 2015]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[0.07]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[06 de mayo de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[7.9]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[18 de junio 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[4.24]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[05 de agosto de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[12.22]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[24 de agosto de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[8.56]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[01 de diciembre de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[3.62]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[17 de enero de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[4]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[11 de julio de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[9.05]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[18 de agosto de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[17.96]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[23 de septiembre de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[12.88]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de noviembre de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[2.94]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[12 de diciembre de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[6.96]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de enero de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[16.56]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[27 de febrero de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[47.4]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[22 de marzo de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[11]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[24 de abril de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[6.7]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[31 de mayo de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[14.88]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[27 de junio de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[10.71]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de julio de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[19]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[28 de agosto de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[13.5]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[27 de septiembre de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[10.32]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de octubre de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[3.75]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[7 de diciembre de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[3,40]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de enero de  2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[0,72]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de febrero de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[1,6]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[17 de abril de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[1.04]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[28 de mayo de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[3.43]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[28 de noviembre de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[5.04]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de diciembre de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[1.80]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de febrero de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[1.11]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[19 de marzo de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[2.64]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de abril de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[2.04]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de mayo de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[2.12]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de junio de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[2.18]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[31 de julio de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[2.97]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de agosto de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[2.46]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de septiembre de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[3.05]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de octubre de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[8.04]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[10 de julio de 2015]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[7.62]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de agosto de 2015]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[7.80]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[24 de septiembre de 2015]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[365]]></column_3>
+		<column_4><![CDATA[2.50]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[06 de mayo de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[1541.7]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[18 de junio 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[508]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[05 de agosto de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[812.04]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[24 de agosto de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[912]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[01 de diciembre de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[326]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[17 de enero de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[1053.24]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[11 de julio de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[863.43]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[18 de agosto de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[930.11]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[23 de septiembre de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[788.04]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de noviembre de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[268.94]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[12 de diciembre de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[839.6]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de enero de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[889.66]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[27 de febrero de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[21.4]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[22 de marzo de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[1402.65]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[24 de abril de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[1248.32]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[31 de mayo de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[1172.4]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[27 de junio de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[1235.54]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de julio de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[978]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[28 de agosto de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[862.17]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[27 de septiembre de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[990.39]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de octubre de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[814.92]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[7 de diciembre de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[982,48]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de enero de  2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[1287,53]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de febrero de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[1377,79]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[17 de abril de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[989.46]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[28 de mayo de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[635.26]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[28 de noviembre de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[834.57]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de diciembre de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[1178.40]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de febrero de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[1211.67]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[19 de marzo de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[1126.20]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de abril de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[750.00]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de mayo de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[1000.00]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de junio de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[750.00]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[31 de julio de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[2250.00]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de agosto de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[1687.50]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de septiembre de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[937.50]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de octubre de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[512.50]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[10 de julio de 2015]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[1290.3]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de agosto de 2015]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[1004.00]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[24 de septiembre de 2015]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[367]]></column_3>
+		<column_4><![CDATA[1012.10]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[06 de mayo de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[7.17]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[18 de junio 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[5.35]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[05 de agosto de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[10.05]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[24 de agosto de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[4.53]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[01 de diciembre de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[6.43]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[17 de enero de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[4.56]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[11 de julio de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[10.35]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[18 de agosto de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[9.06]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[23 de septiembre de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[4.81]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de noviembre de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[6.68]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[12 de diciembre de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[3.52]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de enero de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[6.32]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[27 de febrero de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[1149.37]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[22 de marzo de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[6.52]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[24 de abril de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[7.65]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[31 de mayo de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[7.09]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[27 de junio de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[7.91]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de julio de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[7.27]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[28 de agosto de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[8.22]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[27 de septiembre de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[6.04]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de octubre de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[8.17]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[7 de diciembre de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[5,41]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de enero de  2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[7,36]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de febrero de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[7,78]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[17 de abril de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[7.44]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[28 de mayo de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[7.90]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[28 de noviembre de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[7.62]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de diciembre de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[6.60]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de febrero de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[8.36]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[19 de marzo de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[7.60]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de abril de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[6.90]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de mayo de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[7.18]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de junio de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[7.64]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[31 de julio de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[7.48]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de agosto de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[9.02]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de septiembre de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[8.10]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de octubre de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[7.21]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de agosto de 2015]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[7.78]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[24 de septiembre de 2015]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[370]]></column_3>
+		<column_4><![CDATA[6.80]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[06 de mayo de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[8.54]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[18 de junio 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[8.38]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[05 de agosto de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[9.01]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[24 de agosto de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[8.39]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[01 de diciembre de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[7.89]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[17 de enero de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[8.25]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[11 de julio de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[8..65]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[18 de agosto de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[8.94]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[23 de septiembre de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[8.29]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de noviembre de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[7.72]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[12 de diciembre de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[6.85]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de enero de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[8.57]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[27 de febrero de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[4.82]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[22 de marzo de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[8.49]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[24 de abril de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[8.76]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[31 de mayo de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[7.8]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[27 de junio de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[7.95]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de julio de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[8.01]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[28 de agosto de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[8.5]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[27 de septiembre de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[8.59]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de octubre de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[8.65]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[7 de diciembre de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[8,28]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de enero de  2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[8,37]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de febrero de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[8,37]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[17 de abril de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[8.28]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[28 de mayo de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[8.44]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[28 de noviembre de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[8.39]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de diciembre de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[7.48]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de febrero de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[8.16]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[19 de marzo de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[8.26]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de abril de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[8.23]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de mayo de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[8.29]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de junio de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[8.26]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[31 de julio de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[8.28]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de agosto de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[8.45]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de septiembre de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[8.25]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de octubre de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[8.26]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[10 de julio de 2015]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[8.53]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de agosto de 2015]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[8.43]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[24 de septiembre de 2015]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[372]]></column_3>
+		<column_4><![CDATA[8.50]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[06 de mayo de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.25]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[18 de junio 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.12]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[05 de agosto de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.2]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[24 de agosto de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.19]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[01 de diciembre de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.42]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[17 de enero de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.09]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[11 de julio de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.21]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[18 de agosto de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.91]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[23 de septiembre de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.55]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de noviembre de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.19]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[12 de diciembre de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.41]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de enero de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.22]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[27 de febrero de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[8.09]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[22 de marzo de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.27]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[24 de abril de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.15]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[31 de mayo de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.35]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[27 de junio de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.27]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de julio de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.6]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[28 de agosto de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.43]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[27 de septiembre de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.18]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de octubre de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.32]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[7 de diciembre de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0,13]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de enero de  2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0,04]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de febrero de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0,09]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[17 de abril de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.10]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[28 de mayo de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.07]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[28 de noviembre de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.14]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de diciembre de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.18]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de febrero de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.07]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[19 de marzo de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.070]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de abril de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.07]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de mayo de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.15]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de junio de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.09]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[31 de julio de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.09]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de agosto de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.09]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de septiembre de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.07]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de octubre de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.53]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[10 de julio de 2015]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.12]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de agosto de 2015]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.12]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[24 de septiembre de 2015]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[374]]></column_3>
+		<column_4><![CDATA[0.08]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[06 de mayo de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[115]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[18 de junio 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[162]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[05 de agosto de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[129]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[24 de agosto de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[151]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[01 de diciembre de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[59]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[17 de enero de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[44]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[11 de julio de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[36]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[18 de agosto de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[32]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[23 de septiembre de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[32]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de noviembre de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[18]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[12 de diciembre de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[24]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de enero de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[52]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[27 de febrero de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[36]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[22 de marzo de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[40]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[24 de abril de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[159]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[31 de mayo de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[47]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[27 de junio de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[25]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de julio de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[46]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[28 de agosto de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[26]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[27 de septiembre de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[19.3]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de octubre de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[11.33]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[7 de diciembre de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[37,00]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de enero de  2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[38,00]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de febrero de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[17]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[17 de abril de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[19.60]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[28 de mayo de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[40.00]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[28 de noviembre de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[56.00]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de diciembre de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[31.00]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de febrero de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[28]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[19 de marzo de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[36.00]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de abril de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[30.00]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de mayo de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[51.00]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de junio de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[36.00]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[31 de julio de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[26.00]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de agosto de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[30.00]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de septiembre de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[47.00]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de octubre de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[30.00]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[10 de julio de 2015]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[74]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de agosto de 2015]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[35.00]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[24 de septiembre de 2015]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[376]]></column_3>
+		<column_4><![CDATA[54.40]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[06 de mayo de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[30.9]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[18 de junio 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[31.8]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[05 de agosto de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[27.4]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[24 de agosto de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[25.1]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[01 de diciembre de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[4]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[17 de enero de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[36.1]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[11 de julio de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[24.8]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[18 de agosto de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[18.3]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[23 de septiembre de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[15.9]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de noviembre de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[5.8]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[12 de diciembre de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[17.2]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de enero de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[30.3]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[27 de febrero de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[30.3]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[22 de marzo de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[31.6]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[24 de abril de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[35]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[31 de mayo de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[29.9]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[27 de junio de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[28.1]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de julio de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[10.8]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[28 de agosto de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[24.5]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[27 de septiembre de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[27.6]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de octubre de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[22.1]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[7 de diciembre de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[33,20]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de enero de  2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[37,40]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de febrero de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[36,8]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[17 de abril de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[37.10]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[28 de mayo de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[34.20]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[28 de noviembre de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[29.60]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de diciembre de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[38.90]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de febrero de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[36.2]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[19 de marzo de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[38.60]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de abril de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[36.80]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de mayo de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[36.60]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de junio de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[357]]></column_3>
+		<column_4><![CDATA[34.10]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[31 de julio de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[36.30]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de agosto de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[33.20]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de septiembre de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[30.80]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de octubre de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[6.70]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[10 de julio de 2015]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[35.2]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de agosto de 2015]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[32.40]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[24 de septiembre de 2015]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[378]]></column_3>
+		<column_4><![CDATA[30.60]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[06 de mayo de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[170]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[18 de junio 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[7.8]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[05 de agosto de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[2]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[24 de agosto de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[54000]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[01 de diciembre de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[220000]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[17 de enero de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[2]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[11 de julio de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[4900]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[18 de agosto de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[330]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[23 de septiembre de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[13000]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de noviembre de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[160000]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[12 de diciembre de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[44000]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de enero de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[460000]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[27 de febrero de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[67000]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[22 de marzo de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[28000]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[24 de abril de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[20]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[27 de junio de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[28000]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de julio de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[7900]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[28 de agosto de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[4900]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[27 de septiembre de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[1700]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de octubre de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[14000]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[7 de diciembre de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[1.8]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de enero de  2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[4,50]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de febrero de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[140000]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[17 de abril de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[1.8]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[28 de mayo de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[2.00]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[28 de noviembre de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[23.00]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de diciembre de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[4.50]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de febrero de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[1.8]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[19 de marzo de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[1.8]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de abril de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[11.00]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de mayo de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[1.8]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de junio de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[20000]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[31 de julio de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[1.8]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de agosto de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[1.8]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de septiembre de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[78.00]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de octubre de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[33000]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[10 de julio de 2015]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[490]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de agosto de 2015]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[52900]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[24 de septiembre de 2015]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[380]]></column_3>
+		<column_4><![CDATA[1.8]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[06 de mayo de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[20]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[18 de junio 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[4.5]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[05 de agosto de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[1.8]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[24 de agosto de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[35000]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[01 de diciembre de 2010]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[70000]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[17 de enero de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[2]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[11 de julio de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[2200]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[18 de agosto de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[330]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[23 de septiembre de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[13000]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de noviembre de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[160000]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[12 de diciembre de 2011]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[19000]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de enero de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[630]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[27 de febrero de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[200]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[22 de marzo de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[100]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[24 de abril de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[20]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[27 de junio de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[1.8]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de julio de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[2700]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[28 de agosto de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[2200]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[27 de septiembre de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[1700]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de octubre de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[14000]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[7 de diciembre de 2012]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[1.8]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de enero de  2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[1.8]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de febrero de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[2000]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[17 de abril de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[1.8]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[28 de mayo de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[2.00]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[28 de noviembre de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[7.80]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de diciembre de 2013]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[4.50]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de febrero de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[1.8]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[19 de marzo de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[1.8]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de abril de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[6.8]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de mayo de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[1.8]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de junio de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[3000]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[31 de julio de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[1.8]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de agosto de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[1.8]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[30 de septiembre de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[78.00]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[29 de octubre de 2014]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[33000]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[10 de julio de 2015]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[490]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[26 de agosto de 2015]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[52900]]></column_4>
+	</node>
+	<node>
+		<column_1><![CDATA[24 de septiembre de 2015]]></column_1>
+		<column_2><![CDATA[400]]></column_2>
+		<column_3><![CDATA[382]]></column_3>
+		<column_4><![CDATA[1.8]]></column_4>
+	</node>
+</data>
